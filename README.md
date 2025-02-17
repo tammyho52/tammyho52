@@ -3,6 +3,7 @@
 - 👩🏻‍💻 Mobile iOS developer
 - ⚒️ Building Flashcard Kata & Suki: Japan Itinerary
 - 📖 Self-Taught Developer | 5+ Years Experience in Financial Services
+- 🌍 Outside of coding, I enjoy cooking, hiking, traveling, and working out
 
 <div id="user-content-toc">
   <ul align="center">
