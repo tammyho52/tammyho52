@@ -13,8 +13,8 @@
 </div>
 
 - 💻 Languages: Swift, Objective-C<br>
-- 📱 Frameworks: SwiftUI, UIKit, Combine, CoreData<br>
-- ⚙️ APIs & Backend: Firebase, REST, GraphQL<br>
-- 🛠 Tools: Figma, Git, Instruments, Xcode<br>
-- ✅ Testing: XCTest, UI Testing, Mocking frameworks<br>
+- 📱 Frameworks: SwiftUI, UIKit, Combine, Core Animation, Core Data<br>
+- ⚙️ APIs & Backend: Firebase (Authentication, Firestore, Crashlytics, Emulator Suite), REST, GraphQL<br>
+- 🛠 Tools: Fastlane, Figma, Git, Instruments, Xcode<br>
+- ✅ Testing: XCTest, Swift Testing, Mocking frameworks<br>
 
