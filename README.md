@@ -13,7 +13,7 @@
 </div>
 
 - 💻 Languages: Swift, Objective-C<br>
-- 📱 Frameworks: SwiftUI, UIKit, Combine, Core Animation, Core Data<br>
+- 📱 Frameworks: SwiftUI, UIKit, Combine, AVFoundation, Core Image, Core Animation, Core Data<br>
 - ⚙️ APIs & Backend: Firebase (Authentication, Firestore, Crashlytics, Emulator Suite), REST, GraphQL<br>
 - 🛠 Tools: Fastlane, Figma, Git, Instruments, Xcode<br>
 - ✅ Testing: XCTest, Swift Testing, Mocking frameworks<br>
