@@ -1,8 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi there, I'm Tammy.</h1>
 
-- 👩🏻‍💻 Mobile iOS developer
-- ⚒️ Building Flashcard Kata & Suki: Japan Itinerary
-- 📖 Self-Taught Developer | 5+ Years Experience in Financial Services
+- 👩🏻‍💻 Software Engineer, iOS
+- 📱 I like to build mobile apps for fun 
 - 🌍 Outside of coding, I enjoy cooking, hiking, traveling, and working out
 
 <div align="center">
